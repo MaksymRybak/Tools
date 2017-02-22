@@ -5,6 +5,7 @@ Required software:
   1. Runtime - [Node.js](https://nodejs.org/en/) with packet manager: [npm](https://www.npmjs.com/), [code example](examples/example.js)
   2. Linter - Code style and syntax templates checker - [ESLint](http://eslint.org/), [config example](examples/.eslintrc.yml)
   3. VCS - Version Control System - [GitHub](https://github.com/), [GIT](https://git-scm.com/), [GUI](https://desktop.github.com/)
+  4. Tests -  [Jasmine](https://jasmine.github.io/edge/introduction), [Protractor](http://www.protractortest.org/#/)
 
 Optional tools:
   1. IDE - Integrated development environment: [Brackets](http://brackets.io/), [Atom](https://atom.io/), [Webstorm](https://www.jetbrains.com/webstorm/)
